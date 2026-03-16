@@ -11,9 +11,9 @@ import java.io.InputStreamReader;
 
 %{
 
+public static int ASSIGNMENT = 256;
 public static int IDENT		= 257;
 public static int NUM			= 258;
-
 public static int IF 			= 259; 
 public static int ELSE 		= 260;
 public static int PUBLIC 	= 261;
